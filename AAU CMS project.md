@@ -1,1 +1,1 @@
-# CMSAAU this is a final year project for AAU students. This is a customer management system ... anybody interested in giving ideas is welcomed!!
+# CMSAAU this is a final year project for AAU students. This is a customer management system for Addis Ababa Water and Sewerage Office to handle its customers in a computerized way(using Dynamic programming) ... anybody interested in giving ideas is welcomed!!
